@@ -1,9 +1,10 @@
-# project-1-apis
-Project 1
+Weather Spot Dashboard
 
+A modern, user-focused and minimalist weather dashboard integrated with music
 
-Brandon - changes to readme.md
+Having trouble enjoying the weather of your current location?
+Go ahead and type a location of your choice and imagination is your limitation - enjoy its weather listening to some recommended songs ;)
 
-#The Best
+Link: 
 
 
